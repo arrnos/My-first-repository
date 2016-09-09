@@ -1,0 +1,11 @@
+编写并保存代码。打开记事本编写如图1所示代码，图1代码为（注意输入代码时输入法一定切换到英文输入状态下）：
+public class HelloWorld {
+    /**
+    * 输出一行字符串“Hello World!”
+    * @param args
+    */
+    public static void main(String[] args) {
+    System.out.println("Hello World!");
+    }
+}
+在D盘建立一个JAVA文件夹用于保存代码，保存的时候一定要注意,如图2所示，“保存类型（T）”要选择“所有文件（*.*）”,“文件名（N）”一定要为 HelloWorld.java 。如图3所示，保存后到D:\JAVA下检查下文件名是否正确,HelloWorld.java.txt,HelloWorld.txt都是错误的文件名。JAVA程序代码后缀为.java，文件名常常要求保持和类名一致。JAVA语言是严格区分大小写字母的，但是Windows的文件名却不区分大小写。
